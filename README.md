@@ -1,6 +1,6 @@
-<h1>👋Hi, I'm Max!</h1>
+<h1>Hi, I'm Max!</h1>
 
-<h2>👨‍💻Projects:</h2>
+<h2>Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -9,8 +9,9 @@
   
 <h2>Certifications</h2>
 
-<b>Google Cyber Security Certificate</b>
-<b>ISC2 CC</b>
+- <b>Google Cybersecurity Professional Certificate</b>
+
+- <b>ISC2 CC</b>
 
 
 <h2> 🤳 Connect with me:</h2>
