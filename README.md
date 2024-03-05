@@ -10,6 +10,7 @@
 <h2>Certifications</h2>
 
 <b>Google Cyber Security Certificate</b>
+<b>ISC2 CC</b>
 
 
 <h2> 🤳 Connect with me:</h2>
