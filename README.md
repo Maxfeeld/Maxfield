@@ -2,7 +2,7 @@
 
 <h2>Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Data Structures and Algorithms Practice</b>
   - 
 - <b>Automating Cybersecurity Tasks</b>
   -  <b><i></b></i>
