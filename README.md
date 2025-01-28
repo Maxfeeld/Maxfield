@@ -1,23 +1,42 @@
-<h1>Hi, I'm Max!</h1>
+# 👋 Hey there, I'm Max!
 
-<h2>Projects:</h2>
+## 🛡️ Aspiring IT Professional
 
-- <b>Data Structures and Algorithms Practice</b>
-  - 
-- <b>Automating Cybersecurity Tasks</b>
-  -  <b><i></b></i>
-  
-<h2>Certifications</h2>
+I'm an **M.S. Cybersecurity student at Georgia Tech** with a strong foundation in **IT infrastructure, network security, and system administration**. With a **B.S. in Management Information Systems** from San Jose State University and industry certifications including **CompTIA Security+, Network+, and ISC2 CC**, I am dedicated to securing systems and networks while bridging the gap between technology and business.
 
-- <b>Google Cybersecurity Professional Certificate</b>
+## 🔍 What I Do
+- 🖥️ **Cybersecurity & IT Projects** – Hands-on experience building **homelabs, Active Directory environments, and security monitoring tools**.
+- 🏗 **Network & Systems Security** – Skilled in **firewalls, IDS/IPS, VPNs, DNS, DHCP, and endpoint security**.
+- 🔄 **Automation & Scripting** – Proficient in **Python, PowerShell, and Bash** for automating security operations.
+- 📊 **Business & Technology** – Background in **IT policy, project management, and risk assessment**.
 
-- <b>ISC2 CC</b>
+## 🏗 Notable Projects
+🚀 **Active Directory Domain Implementation**  
+📌 Set up **Active Directory in VirtualBox**, configured user authentication, and automated provisioning with PowerShell.  
 
+🔍 **Suricata Intrusion Detection System Analysis**  
+📌 Configured **Suricata IDS**, analyzed logs, and created custom rules to detect potential threats.  
 
-<h2> 🤳 Connect with me:</h2>
+📡 **Network Security Monitoring with Chronicle SIEM**  
+📌 Investigated phishing domains, analyzed HTTP logs, and expanded threat detection using **Chronicle and VirusTotal**.  
 
-[<img align="left" alt="MaxfieldWilkinson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="MaxfieldWilkinson | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+📡 **Building a Cybersecurity Homelab with Docker**  
+📌 Simulated a **business network** using **Docker, NGINX, and Kali Linux**, demonstrating containerized security tools.  
 
-[instagram]: https://www.instagram.com/maxfield.wilkinson/
-[linkedin]: https://www.linkedin.com/in/maxfield-wilkinson/
+🎯 **Raspberry Pi-based Network Ad Blocker**  
+📌 Configured **Pi-hole on Raspberry Pi** for **network-wide DNS filtering and security monitoring**.  
+
+## 🛠 Tech Stack & Skills
+**Languages & Scripting:** Python, PowerShell, Bash, SQL  
+**Operating Systems:** Windows, macOS, Linux  
+**Networking & Security:** IDS/IPS, VPN, TCP/IP, DNS, DHCP, Network Monitoring  
+**Tools & Technologies:** Docker, Wireshark, Nmap, Chronicle, Splunk, Microsoft 365, Google Workspace  
+**Methodologies:** Agile, Risk Management, Threat Intelligence, Incident Response  
+
+## 📫 Let's Connect!
+💼 [LinkedIn](https://www.linkedin.com/in/maxfieldwilkinson/)  
+📧 [Email](mailto:your.email@example.com)  
+
+---
+
+### 🔐 Passionate about cybersecurity, IT infrastructure, and using technology to make the digital world safer.
