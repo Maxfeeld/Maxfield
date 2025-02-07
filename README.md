@@ -33,6 +33,6 @@ I'm an **M.S. Cybersecurity student at Georgia Tech** with a strong foundation i
 
 ## 📫 Let's Connect!
 💼 [LinkedIn](https://www.linkedin.com/in/maxfieldwilkinson/)  
-📧 [Email](mailto:your.email@example.com)  
+📧 [Email](mailto:maxfieldwilkinson@gmail.com)  
 
 ---
