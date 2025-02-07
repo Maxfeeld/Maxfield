@@ -36,5 +36,3 @@ I'm an **M.S. Cybersecurity student at Georgia Tech** with a strong foundation i
 📧 [Email](mailto:your.email@example.com)  
 
 ---
-
-### 🔐 Passionate about cybersecurity, IT infrastructure, and using technology to make the digital world safer.
